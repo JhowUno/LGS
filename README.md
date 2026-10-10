@@ -1,2 +1,2 @@
-# OGS
-Online Game Share
+# LGS
+Lan Game Share
